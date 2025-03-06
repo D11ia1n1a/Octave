@@ -1,0 +1,10 @@
+1- Создание репозитория на Github
+2- Подключение к V.S code (IDE)
+3- Чтобы подключить к V.S code пишем в терминале: git clone (https://github.com/D11ia1n1a/Octave.git) 
+3.5- git remote add origin твоя ссылка
+4- делаем проект 
+5- Добавляем файлы : git add .
+6- Сохраняем и пишем :  git commit -m "комментарий"
+7- Отправляем их на сайт : git push 
+8- Проверяем изменения
+https://www.youtube.com/watch?v=EeARyFrZsnU
